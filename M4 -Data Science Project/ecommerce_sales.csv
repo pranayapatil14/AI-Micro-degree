@@ -1,0 +1,151 @@
+OrderID,ProductCategory,Date,SalesAmount,Region,Quantity,CustomerID
+1,Electronics,2023-01-01,150,North,2,A001
+2,Fashion,2023-01-02,80,South,1,A002
+3,Home Appliances,2023-01-03,200,East,3,A003
+4,Electronics,2023-01-04,120,West,1,A004
+5,Fashion,2023-01-05,50,North,2,A005
+6,Home Appliances,2023-01-06,180,South,3,A006
+7,Fashion,2023-01-07,100,East,2,A007
+8,Electronics,2023-01-08,300,West,4,A008
+9,Home Appliances,2023-01-09,130,North,2,A009
+10,Fashion,2023-01-10,90,South,1,A010
+11,Electronics,2023-01-11,160,East,2,A011
+12,Fashion,2023-01-12,110,West,1,A012
+13,Home Appliances,2023-01-13,230,North,3,A013
+14,Electronics,2023-01-14,140,South,2,A014
+15,Fashion,2023-01-15,60,East,2,A015
+16,Home Appliances,2023-01-16,210,West,3,A016
+17,Electronics,2023-01-17,180,North,2,A017
+18,Fashion,2023-01-18,120,South,1,A018
+19,Home Appliances,2023-01-19,200,East,3,A019
+20,Electronics,2023-01-20,130,West,2,A020
+21,Fashion,2023-01-21,75,North,1,A021
+22,Home Appliances,2023-01-22,250,South,3,A022
+23,Electronics,2023-01-23,300,East,4,A023
+24,Fashion,2023-01-24,85,West,2,A024
+25,Home Appliances,2023-01-25,180,North,2,A025
+26,Electronics,2023-01-26,220,South,3,A026
+27,Fashion,2023-01-27,110,East,1,A027
+28,Home Appliances,2023-01-28,170,West,2,A028
+29,Electronics,2023-01-29,190,North,2,A029
+30,Fashion,2023-01-30,130,South,1,A030
+31,Home Appliances,2023-01-31,210,East,3,A031
+32,Electronics,2023-02-01,160,West,2,A032
+33,Fashion,2023-02-02,70,North,1,A033
+34,Home Appliances,2023-02-03,180,South,2,A034
+35,Electronics,2023-02-04,120,East,1,A035
+36,Fashion,2023-02-05,130,West,2,A036
+37,Home Appliances,2023-02-06,250,North,3,A037
+38,Electronics,2023-02-07,140,South,2,A038
+39,Fashion,2023-02-08,60,East,1,A039
+40,Home Appliances,2023-02-09,200,West,3,A040
+41,Electronics,2023-02-10,170,North,2,A041
+42,Fashion,2023-02-11,50,South,1,A042
+43,Home Appliances,2023-02-12,230,East,3,A043
+44,Electronics,2023-02-13,180,West,2,A044
+45,Fashion,2023-02-14,100,North,2,A045
+46,Home Appliances,2023-02-15,210,South,3,A046
+47,Electronics,2023-02-16,160,East,2,A047
+48,Fashion,2023-02-17,90,West,1,A048
+49,Home Appliances,2023-02-18,180,North,2,A049
+50,Electronics,2023-02-19,140,South,2,A050
+51,Fashion,2023-02-20,60,East,1,A051
+52,Home Appliances,2023-02-21,220,West,3,A052
+53,Electronics,2023-02-22,250,North,3,A053
+54,Fashion,2023-02-23,110,South,1,A054
+55,Home Appliances,2023-02-24,200,East,3,A055
+56,Electronics,2023-02-25,180,West,2,A056
+57,Fashion,2023-02-26,50,North,1,A057
+58,Home Appliances,2023-02-27,210,South,3,A058
+59,Electronics,2023-02-28,160,East,2,A059
+60,Fashion,2023-03-01,120,West,1,A060
+61,Home Appliances,2023-03-02,180,North,2,A061
+62,Electronics,2023-03-03,200,South,3,A062
+63,Fashion,2023-03-04,100,East,1,A063
+64,Home Appliances,2023-03-05,250,West,3,A064
+65,Electronics,2023-03-06,150,North,2,A065
+66,Fashion,2023-03-07,80,South,1,A066
+67,Home Appliances,2023-03-08,220,East,3,A067
+68,Electronics,2023-03-09,170,West,2,A068
+69,Fashion,2023-03-10,110,North,1,A069
+70,Home Appliances,2023-03-11,200,South,3,A070
+71,Electronics,2023-03-12,120,East,2,A071
+72,Fashion,2023-03-13,50,West,1,A072
+73,Home Appliances,2023-03-14,180,North,2,A073
+74,Electronics,2023-03-15,150,South,2,A074
+75,Fashion,2023-03-16,90,East,1,A075
+76,Home Appliances,2023-03-17,210,West,3,A076
+77,Electronics,2023-03-18,160,North,2,A077
+78,Fashion,2023-03-19,80,South,1,A078
+79,Home Appliances,2023-03-20,230,East,3,A079
+80,Electronics,2023-03-21,140,West,2,A080
+81,Fashion,2023-03-22,70,North,1,A081
+82,Home Appliances,2023-03-23,200,South,3,A082
+83,Electronics,2023-03-24,180,East,2,A083
+84,Fashion,2023-03-25,110,West,1,A084
+85,Home Appliances,2023-03-26,250,North,3,A085
+86,Electronics,2023-03-27,160,South,2,A086
+87,Fashion,2023-03-28,90,East,1,A087
+88,Home Appliances,2023-03-29,180,West,2,A088
+89,Electronics,2023-03-30,200,North,3,A089
+90,Fashion,2023-03-31,120,South,1,A090
+91,Home Appliances,2023-04-01,150,East,2,A091
+92,Electronics,2023-04-02,250,West,3,A092
+93,Fashion,2023-04-03,100,North,2,A093
+94,Home Appliances,2023-04-04,220,South,3,A094
+95,Electronics,2023-04-05,180,East,2,A095
+96,Fashion,2023-04-06,50,West,1,A096
+97,Home Appliances,2023-04-07,200,North,3,A097
+98,Electronics,2023-04-08,150,South,2,A098
+99,Fashion,2023-04-09,80,East,1,A099
+100,Home Appliances,2023-04-10,180,West,2,A100
+101,Electronics,2023-04-11,160,North,2,A101
+102,Fashion,2023-04-12,110,South,1,A102
+103,Home Appliances,2023-04-13,230,East,3,A103
+104,Electronics,2023-04-14,140,West,2,A104
+105,Fashion,2023-04-15,120,North,1,A105
+106,Home Appliances,2023-04-16,200,South,3,A106
+107,Electronics,2023-04-17,250,East,3,A107
+108,Fashion,2023-04-18,130,West,1,A108
+109,Home Appliances,2023-04-19,150,North,2,A109
+110,Electronics,2023-04-20,200,South,3,A110
+111,Fashion,2023-04-21,80,East,1,A111
+112,Home Appliances,2023-04-22,210,West,3,A112
+113,Electronics,2023-04-23,180,North,2,A113
+114,Fashion,2023-04-24,50,South,1,A114
+115,Home Appliances,2023-04-25,250,East,3,A115
+116,Electronics,2023-04-26,200,West,3,A116
+117,Fashion,2023-04-27,110,North,1,A117
+118,Home Appliances,2023-04-28,230,South,3,A118
+119,Electronics,2023-04-29,170,East,2,A119
+120,Fashion,2023-04-30,90,West,1,A120
+121,Home Appliances,2023-05-01,150,North,2,A121
+122,Electronics,2023-05-02,250,South,3,A122
+123,Fashion,2023-05-03,100,East,2,A123
+124,Home Appliances,2023-05-04,220,West,3,A124
+125,Electronics,2023-05-05,180,North,2,A125
+126,Fashion,2023-05-06,110,South,1,A126
+127,Home Appliances,2023-05-07,250,East,3,A127
+128,Electronics,2023-05-08,160,West,2,A128
+129,Fashion,2023-05-09,70,North,1,A129
+130,Home Appliances,2023-05-10,180,South,2,A130
+131,Electronics,2023-05-11,200,East,3,A131
+132,Fashion,2023-05-12,120,West,1,A132
+133,Home Appliances,2023-05-13,220,North,3,A133
+134,Electronics,2023-05-14,150,South,2,A134
+135,Fashion,2023-05-15,90,East,1,A135
+136,Home Appliances,2023-05-16,230,West,3,A136
+137,Electronics,2023-05-17,180,North,2,A137
+138,Fashion,2023-05-18,50,South,1,A138
+139,Home Appliances,2023-05-19,200,East,3,A139
+140,Electronics,2023-05-20,250,West,3,A140
+141,Fashion,2023-05-21,110,North,1,A141
+142,Home Appliances,2023-05-22,220,South,3,A142
+143,Electronics,2023-05-23,170,East,2,A143
+144,Fashion,2023-05-24,80,West,1,A144
+145,Home Appliances,2023-05-25,200,North,3,A145
+146,Electronics,2023-05-26,160,South,2,A146
+147,Fashion,2023-05-27,120,East,1,A147
+148,Home Appliances,2023-05-28,250,West,3,A148
+149,Electronics,2023-05-29,180,North,2,A149
+150,Fashion,2023-05-30,70,South,1,A150
